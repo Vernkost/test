@@ -1,2 +1,2 @@
 # test
-This a ttes tepository
+This a test repository
